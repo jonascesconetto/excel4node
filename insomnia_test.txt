@@ -1,0 +1,50 @@
+{
+	
+	"info": {
+		"provider": "TESTE",
+		"orderDate": "16/03/2020",
+		"deliveryDate": "26/03/2020",
+		"vessel": "Bram Force",
+		"buyer": "Andre",
+		"po": "1234",
+		"issuedBy": "Edgar",
+		"comments": "Show de Bola",
+		"fiscalNote": "4567",
+		"issueDate": "20/03/2020",
+		"measureReport": "7890"
+	},
+	
+	"product": [
+		{	
+			"code": "1",
+			"name": "Produto A",
+			"um": "UN",
+			"amount": "2",
+			"price": "5"
+		},
+		
+		{
+			"code": "2",
+			"name": "Produto B",
+			"um": "UN",
+			"amount": "2",
+			"price": "10"
+		},
+		
+		{
+			"code": "3",
+			"name": "Produto C",
+			"um": "UN",
+			"amount": "3",
+			"price": "20"
+		},
+		
+		{
+			"code": "4",
+			"name": "Produto B",
+			"um": "UN",
+			"amount": "20",
+			"price": "100"
+		}
+	]
+} 
